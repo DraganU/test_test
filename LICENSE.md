@@ -1,3 +1,4 @@
+New line
 MIT License
 
 Copyright (c) 2021 [ThemeSelection](https://themeselection.com/)

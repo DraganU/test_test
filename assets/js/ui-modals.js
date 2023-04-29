@@ -30,4 +30,10 @@
 
   // Calling function on load
   autoPlayYouTubeModal();
+
+  let someIIFunction = () {
+    const p = 'This is Imediatly called function above, that is way we are using use stict and () at the and'
+    console.log(p);
+  }
+  someIIFunction();
 })();
